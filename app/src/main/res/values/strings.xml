@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">[LIVE Exercise 6A] Login to New Window</string>
+    <string-array name="positionArray">
+        <item>Admin</item>
+        <item>Staff</item>
+        <item>Client</item>
+    </string-array>
+    <string-array name="usernameArray">
+        <item>Henz</item>
+        <item>dong</item>
+        <item>qwerty</item>
+    </string-array>
+    <string-array name="passwordArray">
+        <item>awtsgege</item>
+        <item>123123</item>
+        <item>gege</item>
+    </string-array>
+</resources>
